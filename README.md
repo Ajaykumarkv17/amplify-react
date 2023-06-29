@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Project Overview 
+It is an simple book Management system which was built using react-js and deployed  in AWS amplify
 
 ## Available Scripts
 
